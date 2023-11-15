@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=2ECC71&height=300&section=header&text=hyeon%20github&fontSize=60)
 
-<p align="center">
-    **SNS :** [![Static Badge](https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@wngus4278)
-</p>
-
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 
 <p align="center">
@@ -32,3 +28,13 @@
   <img src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
   <img src="https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
 </p>
+
+
+<h3 align="center">🍎 Me 🍎</h3>
+<p align="center">
+  <a href="https://velog.io/@wngus4278">
+    <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
+  </a>
+</p>
+
+
