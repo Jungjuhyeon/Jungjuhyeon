@@ -40,11 +40,8 @@
 
 
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: flex; justify-content: space-around; max-width: 800px; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000" alt="Top Languages" width="45%">
-  </div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jungjuhyeon&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjuhyeon&layout=compact&bg_color=00000000" alt="Top Languages" width="100%">
 </div>
-
 
