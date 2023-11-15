@@ -12,17 +12,23 @@
 </p>
 
 <p align="center">
-![](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+  <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge">
+  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
 </p>
 
 <p align="center">
- ![](https://img.shields.io/badge/amazonaws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/microsoftazure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  <img src="https://img.shields.io/badge/amazonaws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS Badge">
+  <img src="https://img.shields.io/badge/microsoftazure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Badge">
 </p>
 
 <p align="center">
- ![](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/AqueryTool-%23669DF6?style=for-the-badge&logo=AqueryTool&logoColor=white) 
+  <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/AqueryTool-%23669DF6?style=for-the-badge&logo=AqueryTool&logoColor=white" alt="AqueryTool Badge">
 </p>
 
 <p align="center">
- ![](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white) ![](https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white) ![](https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)
+  <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
+  <img src="https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
+  <img src="https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
 </p>
