@@ -30,6 +30,7 @@
 </p>
 
 
+
 <h3 align="center">🍎 Me 🍎</h3>
 <p align="center">
   <a href="https://velog.io/@wngus4278">
@@ -37,4 +38,10 @@
   </a>
 </p>
 
+
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000" alt="Top Languages" width="45%">
+</div>
 
