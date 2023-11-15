@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
 </p>
 
-
+----
 
 <h3 align="center">🍎 Me 🍎</h3>
 <p align="center">
@@ -40,8 +40,11 @@
 
 
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000" alt="Top Languages" width="45%">
+<div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: space-around; max-width: 800px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000" alt="Top Languages" width="45%">
+  </div>
 </div>
+
 
