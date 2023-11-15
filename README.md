@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    **Languages :**  ![](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/java-%23FF6550?style=for-the-badge&logo=java&logoColor=white)
+ **Languages :**  ![](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/java-%23FF6550?style=for-the-badge&logo=java&logoColor=white)
 </p>
 
 **Framework :** ![Static Badge](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)   ![Static Badge](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
