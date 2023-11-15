@@ -41,6 +41,6 @@
 
 
 <div style="display: flex; justify-content: center; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jungjuhyeon&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="60%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjuhyeon&layout=compact&bg_color=00000000" alt="Top Languages" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jungjuhyeon&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjuhyeon&layout=compact&bg_color=00000000" alt="Top Languages" width="30%">
 </div>
