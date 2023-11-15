@@ -6,7 +6,10 @@
 
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 
-<p align="center"> ![](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/java-%23FF6550?style=for-the-badge&logo=java&logoColor=white) </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/java-%23FF6550?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+</p>
 
 <p align="center">
 ![](https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
