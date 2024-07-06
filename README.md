@@ -45,7 +45,7 @@
 
 ----
 
-<h3 align="left">🍎 Me 🍎</h3>
+<h3 align="left">🍎 Blog 🍎</h3>
 <p align="left">
   <a href="https://velog.io/@wngus4278">
     <img src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge">
