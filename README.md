@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=2ECC71&height=300&section=header&text=hyeon%20github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 
@@ -44,3 +44,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jungjuhyeon&show_icons=true&bg_color=00000000" alt="Anurag's GitHub Stats" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jungjuhyeon&layout=compact&bg_color=00000000" alt="Top Languages" width="30%">
 </div>
+
