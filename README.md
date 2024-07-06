@@ -3,6 +3,15 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Backend%20Developer&descAlign=80&descAlignY=55)](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hyeon%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=60&height=250&desc=Web%20Backend%20Developer&descAlign=80&descAlignY=55)
 
 
+----
+## Experiences
+
+* Hanium ICT Mentoring Project(BackEnd Developer) `2023.04 ~ 2023.11`
+* 대학생IT연합동아리 University Makeus Challenge 4th(BackEnd Developer) `2023.03 ~ 2023.9`
+* 대학생IT연합동아리 University Makeus Challenge 5th(BackEnd Developer) `2023.09 ~ 2024.2`
+* LG U+ URECA 1st - BackEnd Frontend `2024.06 ~ now`
+
+
 
 ----
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungjuhyeon&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
