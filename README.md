@@ -4,7 +4,7 @@
 
 
 ----
-## Experiences
+## ✨ Experiences
 
 * Hanium ICT Mentoring Project(BackEnd Developer) `2023.04 ~ 2023.11`
 * 대학생IT연합동아리 University Makeus Challenge 4th(BackEnd Developer) `2023.03 ~ 2023.9`
