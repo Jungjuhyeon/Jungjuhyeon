@@ -9,7 +9,7 @@
 * Hanium ICT Mentoring Project(BackEnd Developer) `2023.04 ~ 2023.11`
 * 대학생IT연합동아리 University Makeus Challenge 4th(BackEnd Developer) `2023.03 ~ 2023.9`
 * 대학생IT연합동아리 University Makeus Challenge 5th(BackEnd Developer) `2023.09 ~ 2024.2`
-* LG U+ URECA 1st - BackEnd Frontend `2024.06 ~ now`
+* LG U+ URECA 1st - BackEnd Developer `2024.06 ~ now`
 
 
 ----
