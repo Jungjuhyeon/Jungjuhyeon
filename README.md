@@ -6,7 +6,7 @@
 ----
 ## ✨ Experiences
 
-* Hanium ICT Mentoring Project(BackEnd Developer) `2023.04 ~ 2023.11` / 학위 논문 게제
+* Hanium ICT Mentoring Project(BackEnd Developer) `2023.04 ~ 2023.11` / `학위 논문 게제`
 * 대학생IT연합동아리 University Makeus Challenge 4th(BackEnd Developer) `2023.03 ~ 2023.9`
 * 대학생IT연합동아리 University Makeus Challenge 5th(BackEnd Developer) `2023.09 ~ 2024.2`
 * LG U+ URECA 1st - BackEnd Developer `2024.06 ~ 2024.12`
