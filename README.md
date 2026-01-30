@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/java-%23FF6550?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge">
-  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge">
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/amazonaws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS Badge">
